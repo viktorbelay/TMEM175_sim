@@ -1,0 +1,2 @@
+/home/belayv/miniconda3/envs/simenv2/lib/python3.7/site-packages/mdtraj/utils/validation.py:116: TypeCastPerformanceWarning: Casting xyz dtype=float64 to <class 'numpy.float32'> 
+  TypeCastPerformanceWarning)
